@@ -1,0 +1,17 @@
+{
+    "name": "Kingdox.MMA.Firebase.Firestore",
+    "rootNamespace": "",
+    "references": [
+        "GUID:802cda87e14734b9bb05c37c9cd64a18",
+        "GUID:95dc671f015854d4883f19a758d2b1f8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
